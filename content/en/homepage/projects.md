@@ -1,7 +1,7 @@
 ---
 title: "Projects and Resources"
-header_menu_title: "Resources"
-navigation_menu_title: "Resources"
+header_menu_title: "Projects"
+navigation_menu_title: "Projects"
 
 
 weight: 4

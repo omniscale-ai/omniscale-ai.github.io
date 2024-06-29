@@ -22,6 +22,7 @@ public
 # and "themes" directories.
 # content/*
 themes/*
+resources/*
 # uncomment below if you dont want to load static img resources
 # !static/img
 

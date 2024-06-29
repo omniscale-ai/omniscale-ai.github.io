@@ -9,8 +9,8 @@ header_menu: true
 ---
 
 - Konstantin Novoselov
-- Kedar Hippalgaonkar
 - Andrey Ustyuzhanin
+- Kedar Hippalgaonkar
 - Lee Wee Sun
 - Li Qianxiao
 - Nikita Kazeev
