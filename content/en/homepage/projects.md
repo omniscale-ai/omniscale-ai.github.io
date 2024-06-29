@@ -10,14 +10,14 @@ header_menu: true
 
 #### Ongoing Projects
 
-1. **Learning Lineage of Physics-Informed Predictive Models**, IFIM NUS
+**Learning Lineage of Physics-Informed Predictive Models**, IFIM NUS, 2024-2029
    - **Description**: This project focuses on developing advanced AI models that incorporate principles from physics to accurately predict complex processes. By understanding the lineage and evolution of these predictive models, we aim to enhance knowledge distillation and facilitate the novel design of materials and quantum systems.
    - **Goals**:
      - Develop A mathematical framework for learning mulsticale physical laws.
      - To refine AI models that can integrate and interpret physical laws.
      - To accelerate the innovation process in material science by predicting material behaviors and properties.
 
-2. **To Be Determined (TBD)**
+**To Be Determined (TBD)**
    - **Description**: This project slot is reserved for an upcoming initiative that aligns with our mission to bridge scales and unify diverse scientific domains. Stay tuned for updates!
 
 #### Call for Collaboration
