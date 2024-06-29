@@ -18,7 +18,7 @@ You would have to .Resouces.GetMatch via custom shortcode.
 At OmniScale AI, our mission is to pioneer the integration of scientific principles from diverse domains through the development of advanced multiscale foundation AI models. Our vision is to transcend traditional boundaries of science, creating a unified framework that bridges scales from the quantum to the cosmic, thereby unlocking unprecedented insights and innovations.
 
 **Significance in Material Science:**
-- **Enhanced Predictive Capabilities:** Multiscale models enable accurate predictions of material behaviors from the atomic level up to the macroscopic scale, facilitating the design of novel materials with desirable properties.
+- **Enhanced Predictive Capabilities:** We expect multiscale models to enable accurate predictions of material behaviors from the atomic level up to the macroscopic scale, facilitating the design of novel materials with desirable properties.
 - **Interdisciplinary Insights:** By unifying principles from physics, chemistry, and engineering, these models help uncover fundamental mechanisms that govern material performance and reliability.
 
 **Impact in Artificial Intelligence:**
