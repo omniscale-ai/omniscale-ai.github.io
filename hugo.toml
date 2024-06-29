@@ -41,7 +41,7 @@ enableEmoji = true
     title = "Omniscale Intelligence Initiative"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "TBC"
+    description = "Omniscale Intelligence Initiative"
 
     # Show a menu of languages available
     language_menu = false
