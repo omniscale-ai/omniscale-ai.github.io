@@ -79,14 +79,14 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "omniscale@coresearch.club"
-        url = "mailto:omniscale@coresearch.club"
+        value = "omniscale.ai@gmail.com"
+        url = "mailto:omniscale.ai@gmail.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
         label = "github"
-        value = "omniscience-ai"
-        url = "https://github.com/omniscience-ai"
+        value = "omniscale-ai"
+        url = "https://github.com/omniscale-ai"
         icon = "fa fa-github"
 
     # Add additional contacts here!
