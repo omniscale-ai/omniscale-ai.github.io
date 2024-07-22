@@ -14,6 +14,7 @@ header_menu: true
 - Lee Wee Sun
 - Li Qianxiao
 - Nikita Kazeev
+- Artem Maevskiy
 
 #### Join Us
 
