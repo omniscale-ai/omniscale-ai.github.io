@@ -10,7 +10,7 @@ header_menu: true
 
 #### Multiscale Modelling and Machine Learning
 
-We are pleased to invite you to our seminar that we are going use to foster discussion and collaboration in the AISG supported project (Learning lineage of physics-informed predictive models of complex processes for knowledge distillation and novel design in material and quantum sciences).
+We are pleased to invite you to our seminar to foster discussion and collaboration related to Multiscale Modeling. It will be mostly related to materials, life and quantum sciences.
 
 Time: Friday, 2:00 PM – 4:00 PM, weekly
 
