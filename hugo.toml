@@ -17,6 +17,8 @@ title = "Omniscale Intelligence Initiative"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+ignoreLogs = ['warning-goldmark-raw-html']
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 
@@ -53,7 +55,7 @@ enableEmoji = true
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
     copyright = "© Andrey Ustyuzhanin 2024"
-
+    
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     hidedesignbyline = true
