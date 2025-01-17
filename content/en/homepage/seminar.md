@@ -18,4 +18,4 @@ Venue: S17-0406, S17, NUS, Singapore
 
 ##### 2025-01-17
 - Zhu Aiqing, review some insights and results from Weinan E's book, [Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/papers/weinan_book.pdf)
-- Chen Mengyi, review of 
+- Chen Mengyi, review of [Wang J. et al. Machine learning of coarse-grained molecular dynamics force fields – 2019](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.8b00913)
