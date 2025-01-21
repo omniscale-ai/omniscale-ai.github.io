@@ -17,7 +17,7 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 ##### Upcoming: 2025-01-31
-
+- TBD
 
 ##### 2025-01-17
 - Zhu Aiqing, review some insights and results from Weinan E's book, [Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/papers/weinan_book.pdf)
