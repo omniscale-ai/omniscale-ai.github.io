@@ -19,7 +19,7 @@ Venue: S17-0406, S17, NUS, Singapore
 ##### Upcoming: 2025-02-14
 - TBD
 
-##### 2025-01-31
+##### Upcoming: 2025-01-31
 - Speaker: Prof. Lei Huan,
   - Time: 9:30 AM – 10:30 AM (**please note the change of time for this session**) 
   - Zoom Link: https://nus-sg.zoom.us/j/87589685476?pwd=M99AQERg8SGwJYnzg1gIxVZEmGkBjI.1  (**please note that it is an online zoom session**) 
