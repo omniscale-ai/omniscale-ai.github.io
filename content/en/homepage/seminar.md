@@ -16,7 +16,11 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
-##### Upcoming: 2025-02-14
+##### 2025-02-28
+- Sohei Arisaka and Wu Shiqi, review some insights and results about Continuum Mechanics from Weinan E's book, [Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/papers/weinan_book.pdf), and [List B. et al. Differentiability in unrolled training of neural physics simulators on transient dynamics](https://www.sciencedirect.com/science/article/pii/S0045782524006960).
+
+
+##### 2025-02-14
 - Speaker: Prof. Duane Loh. 
   - Date: Friday, 14 Feb, 2025
   - Time: 3:00 PM – 5:00 PM
