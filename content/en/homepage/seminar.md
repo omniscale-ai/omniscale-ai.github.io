@@ -17,7 +17,11 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 ##### 2025-02-28
-- Sohei Arisaka and Wu Shiqi, review some insights and results about Continuum Mechanics from Weinan E's book, [Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/papers/weinan_book.pdf), and [List B. et al. Differentiability in unrolled training of neural physics simulators on transient dynamics](https://www.sciencedirect.com/science/article/pii/S0045782524006960).
+- Speakers: Sohei Arisaka and Wu Shiqi.
+  - Title: Constructing Continuum Mechanics: Multiscale Challenges and Machine Learning Solutions
+  - Abstract:
+    Continuum mechanics provides a fundamental framework for modelling the behaviour of solids and fluids, but its formulation requires appropriate closure models to bridge multiple scales. This presentation explores how scientists construct continuum mechanics models based on conservation laws and address the multiscale challenges that arise. We discuss how unknown terms emerge from material characteristics in solids (constitutive laws) and from unresolved fluid motion (turbulence models). Furthermore, we review recent advances in leveraging machine learning to enhance continuum mechanics simulations, including differentiability in neural physics simulators for transient dynamics and data-driven discovery of constitutive laws. Through this discussion, we aim to highlight the evolving methodologies that integrate physics-based and data-driven approaches for improving multiscale modelling in continuum mechanics.
+  - Review some insights and results about Continuum Mechanics from Weinan E's book, [Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/papers/weinan_book.pdf), and [List B. et al. Differentiability in unrolled training of neural physics simulators on transient dynamics](https://www.sciencedirect.com/science/article/pii/S0045782524006960)
 
 
 ##### 2025-02-14
