@@ -16,6 +16,18 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
+
+- Speaker: Vitalii Kapitan
+    - Title: From Microstates to Thermodynamic Properties: A Study of Spin Glasses
+    - Abstract:
+      Spin glass is a prototypical disordered system that retains the full spectrum of complex collective behavior observed in interacting, frustrating elements. Despite being the subject of intense research for over five decades, spin glasses remain an intriguing and unresolved problem. This presentation will highlight our research on spin glasses, particularly focusing on the application of deep neural networks and numerical Monte Carlo methods. We consider a data-driven approach that uses these networks to study the functional relationship between macroscopic thermodynamic properties, such as average energy and magnetization, and the microarchitecture (i.e., the spatial distribution of exchange integrals) of spin glass configurations.
+
+
+- Speaker: Aiqing Zhu
+    - Title: Kinetic theory and its machine learning-based hydrodynamic approximations
+    - Abstract:
+      Kinetic theory serves as a nice bridge between continuum and atomistic models. It can either be viewed as an approximation to the hierarchy of equations for the many-particle probability densities obtained from molecular dynamics, or as a microscopic model for the phase-space probability distribution of a particle, from which continuum models can be derived. In this presentation, we will provide an overview of the fundamental concepts and key features of kinetic theory, following Weinan E's Principles of Multiscale Modeling. Additionally, we will discuss recent advances in developing interpretable and robust hydrodynamic approximations for kinetic equations, with a focus on the machine learning-based approach proposed in Han et al., "Uniformly Accurate Machine Learning-Based Hydrodynamic Models for Kinetic Equations."
+
 ##### 2025-02-28
 - Speakers: Sohei Arisaka and Wu Shiqi.
   - Title: Constructing Continuum Mechanics: Multiscale Challenges and Machine Learning Solutions
