@@ -16,7 +16,10 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
+##### 2025-03-28
+Cancelled due to NUS Well-Being Day.
 
+##### 2025-03-14
 - Speaker: Vitalii Kapitan
     - Title: From Microstates to Thermodynamic Properties: A Study of Spin Glasses
     - Abstract:
