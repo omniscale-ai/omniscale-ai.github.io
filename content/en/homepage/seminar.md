@@ -16,6 +16,22 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
+##### 2025-05-09
+TBD
+
+##### 2025-04-25
+Cancelled due to ICLR schedule conflict.
+
+##### 2025-04-11
+- Speaker: Pinchen Xie (https://salinelake.github.io/), Lawrence Berkeley National Laboratory. 
+
+- Time: 2:00 PM – 4:00 PM
+- Zoom Link:  https://nus-sg.zoom.us/j/84688289643?pwd=NndSC7K2kPkHt4dgHbMMa91haOoInK.1
+- Meeting ID: 846 8828 9643
+- Passcode: 992775
+- Title: Data-driven Applications of Coarse-grained Molecular Dynamics and Quantum Dynamics
+- Abstract: The simulation of all-atom molecular dynamics is limited in both length and time scales. The same difficulty applies to simulating the unitary dynamics of large, closed quantum systems. Therefore, we turn to modeling coarse-grained molecular dynamics and open quantum dynamics, using approximate, non-Markovian representations of less relevant degrees of freedom. The equations of motion for these effective models can be derived from simulation or experimental data. We will present a few examples and introduce the open-source packages we have developed for these purposes.
+
 ##### 2025-03-28
 Cancelled due to NUS Well-Being Day.
 
