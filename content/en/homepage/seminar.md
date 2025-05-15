@@ -16,8 +16,19 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
-##### 2025-05-09
+##### 2025-06-06
 TBD
+
+##### 2025-05-23
+- Speaker: Raymond (Zhu Ruiming)
+- Title: Dis-CSP: Disordered Crystal Structure Predictions
+- Abstract: Most synthesized crystalline inorganic materials are compositionally disordered, meaning that multiple atoms occupy the same lattice site with partial occupancy. Moreover, the computed physical properties of disordered inorganic crystals are configuration dependent, because of this partial occupancy, making it extremely challenging to solve purely by computational methods: this makes property-oriented search impractical. Crystal structure prediction (CSP), for such crystals is crucial for the eventual development of highly efficient and stable functional materials. However, existing generative models cannot handle the complexities of disordered inorganic crystals. To address this gap, we introduce an equivariant representation, based on theoretical crystallography, along with a generative model capable of generating valid structures that allow for compositional disorder and vacancies, which we call Dis-CSP. We train Dis-CSP on experimental inorganic structures from the Inorganic Crystal Structure Database (ICSD), which is the world's largest database of identified inorganic crystal structures. We show that Dis-CSP can effectively generate disordered inorganic crystal materials while preserving the inherent symmetry of the crystals throughout the generation process.
+
+
+##### 2025-05-09
+- Speaker: Ziqiao Meng
+- Title: Introduction to recent advances in crystal material generation
+- Abstract: Material discovery has long been a challenging task due to the vast search space, complex and heterogeneous structures, and high experimental costs. Recently, there has been growing interest in leveraging deep learning techniques to accelerate this process. Inspired by the remarkable success of deep generative models in text and image domains, directly generating crystal structures using generative models has emerged as a promising direction. In this talk, we will provide an overview of recent advances in deep generative approaches for crystal material generation, covering diffusion models, flow matching, and autoregressive methods. 
 
 ##### 2025-04-25
 Cancelled due to ICLR schedule conflict.
