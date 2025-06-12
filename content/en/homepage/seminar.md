@@ -16,8 +16,28 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
+
+##### 2025-20-06
+- Speaker: Maevskiy Artem
+    - Title: Accelerating the Discovery of Superionic Conductors with Machine Learning
+    - Abstract: Discovering new superionic materials is essential for advancing solid-state batteries, which offer improved energy density and safety compared to traditional lithium-ion batteries. Conventional computational methods for identifying such materials are resource-intensive and not easily scalable. In this talk, I will discuss how AI-powered computational approaches can be leveraged for multiscale modelling to predict ionic mobility in solids. I will present our novel method that utilizes universal interatomic potential models and heuristic structure descriptors to quickly screen for promising ionic conductor candidates.
+
+- Speaker: Nikita Kazeev
+    - Title: AI for Inorganic Materials: Grand Scheme of Things and Research Gaps
+    - Abstract: I'll review the computational material design pipeline, from structure generation to first-principles evaluation and experiment. The focus will be on the concrete research gaps potentially addressable with machine learning.
+
 ##### 2025-06-06
-TBD
+- Speaker Jiaxi Zhao
+- Title: Recent advances in charge density prediction
+- Abstract: Since the introduction of foundation models to the fields of materials science and molecular modeling, researchers have primarily focused on large interatomic potential energy surface models. While such models are extremely powerful for constructing machine-learned force fields (MLFFs) for molecular dynamics simulations, they are generally not capable of providing finer quantum mechanical properties such as band gaps.
+In contrast, the prediction of charge (electronic) density has emerged as a new research direction in the past one to two years, aiming to learn the electronic density obtained from density functional theory (DFT) calculations.
+In this talk, I will present an overview of recent advances in this area, with an emphasis on different representations of electronic density and on methods for incorporating equivariance into the models.
+A list of references is provided below.
+    Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials
+    Cracking the Quantum Scaling Limit with Machine Learned Electron Densities
+    A Recipe for Charge Density Prediction
+    Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens
+    Foundation Models for Atomistic Simulation of Chemistry and Materials
 
 ##### 2025-05-23
 - Speaker: Raymond (Zhu Ruiming)
