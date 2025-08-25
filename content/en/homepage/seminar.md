@@ -17,6 +17,17 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 
+##### 2025-29-08
+- Speaker: Zhao Yue
+    - Title: Deep Learning Methods for Solving High-dimensional PDEs: EPR-Net and Deep Picard Iteration
+    - Abstract: In this talk, we explore two deep learning methods for solving high-dimensional PDEs. First, we introduce EPR-Net, a novel deep learning approach for constructing potential landscapes of high-dimensional non-equilibrium steady-state (NESS) systems. The coincidence between the minimum loss of EPR-Net and the entropy production rate in NESS theory allows simultaneous potential landscape construction and clear physical interpretation. EPR-Net can be combined with dimensionality reduction and extended to systems with state-dependent diffusion coefficients. Next, we propose Deep Picard Iteration (DPI) for solving high-dimensional nonlinear parabolic PDEs. DPI combines Picard iteration with neural networks, avoiding the computational difficulties of directly optimizing PDE objective functions. It uses the Feynman-Kac formula for function evaluation, the Bismut-Elworthy-Li formula for gradient estimation. Numerical experiments demonstrate DPI's faster convergence, lower computational cost, and higher solution accuracy compared to existing methods.
+
+##### 2025-18-07
+- Speaker: Andrei Okhotin
+    - Title: MiAD: Mirage Atom Diffusion for De Novo Crystal Generation
+    - Abstract: In recent years, diffusion-based models have demonstrated exceptional performance in searching for simultaneously stable, unique, and novel (S.U.N.) crystalline materials. However, most of these models don’t have the ability to change the number of atoms in the crystal during the generation process, which limits the variability of model sampling trajectories. In this paper, we demonstrate the severity of this restriction and introduce a simple yet powerful technique, mirage infusion, which enables diffusion models to change the state of the atoms that make up the crystal from existent to non-existent (mirage) and vice versa. We show that this technique improves model quality by up to x2.45 compared to the same model without this modification. The resulting model, Mirage Atom Diffusion (MiAD), is an equivariant joint diffusion model for de novo crystal generation that is capable of altering the number of atoms during the generation process. MiAD achieves an 8.1% S.U.N. rate on the MP-20 dataset, which substantially exceeds existing state-of-the-art approaches.
+
+
 ##### 2025-20-06
 - Speaker: Maevskiy Artem
     - Title: Accelerating the Discovery of Superionic Conductors with Machine Learning
@@ -28,8 +39,8 @@ Venue: S17-0406, S17, NUS, Singapore
 
 ##### 2025-06-06
 - Speaker Jiaxi Zhao
-- Title: Recent advances in charge density prediction
-- Abstract: Since the introduction of foundation models to the fields of materials science and molecular modeling, researchers have primarily focused on large interatomic potential energy surface models. While such models are extremely powerful for constructing machine-learned force fields (MLFFs) for molecular dynamics simulations, they are generally not capable of providing finer quantum mechanical properties such as band gaps.
+    - Title: Recent advances in charge density prediction
+    - Abstract: Since the introduction of foundation models to the fields of materials science and molecular modeling, researchers have primarily focused on large interatomic potential energy surface models. While such models are extremely powerful for constructing machine-learned force fields (MLFFs) for molecular dynamics simulations, they are generally not capable of providing finer quantum mechanical properties such as band gaps.
 In contrast, the prediction of charge (electronic) density has emerged as a new research direction in the past one to two years, aiming to learn the electronic density obtained from density functional theory (DFT) calculations.
 In this talk, I will present an overview of recent advances in this area, with an emphasis on different representations of electronic density and on methods for incorporating equivariance into the models.
 A list of references is provided below.
@@ -41,27 +52,26 @@ A list of references is provided below.
 
 ##### 2025-05-23
 - Speaker: Raymond (Zhu Ruiming)
-- Title: Dis-CSP: Disordered Crystal Structure Predictions
-- Abstract: Most synthesized crystalline inorganic materials are compositionally disordered, meaning that multiple atoms occupy the same lattice site with partial occupancy. Moreover, the computed physical properties of disordered inorganic crystals are configuration dependent, because of this partial occupancy, making it extremely challenging to solve purely by computational methods: this makes property-oriented search impractical. Crystal structure prediction (CSP), for such crystals is crucial for the eventual development of highly efficient and stable functional materials. However, existing generative models cannot handle the complexities of disordered inorganic crystals. To address this gap, we introduce an equivariant representation, based on theoretical crystallography, along with a generative model capable of generating valid structures that allow for compositional disorder and vacancies, which we call Dis-CSP. We train Dis-CSP on experimental inorganic structures from the Inorganic Crystal Structure Database (ICSD), which is the world's largest database of identified inorganic crystal structures. We show that Dis-CSP can effectively generate disordered inorganic crystal materials while preserving the inherent symmetry of the crystals throughout the generation process.
+    - Title: Dis-CSP: Disordered Crystal Structure Predictions
+    - Abstract: Most synthesized crystalline inorganic materials are compositionally disordered, meaning that multiple atoms occupy the same lattice site with partial occupancy. Moreover, the computed physical properties of disordered inorganic crystals are configuration dependent, because of this partial occupancy, making it extremely challenging to solve purely by computational methods: this makes property-oriented search impractical. Crystal structure prediction (CSP), for such crystals is crucial for the eventual development of highly efficient and stable functional materials. However, existing generative models cannot handle the complexities of disordered inorganic crystals. To address this gap, we introduce an equivariant representation, based on theoretical crystallography, along with a generative model capable of generating valid structures that allow for compositional disorder and vacancies, which we call Dis-CSP. We train Dis-CSP on experimental inorganic structures from the Inorganic Crystal Structure Database (ICSD), which is the world's largest database of identified inorganic crystal structures. We show that Dis-CSP can effectively generate disordered inorganic crystal materials while preserving the inherent symmetry of the crystals throughout the generation process.
 
 
 ##### 2025-05-09
 - Speaker: Ziqiao Meng
-- Title: Introduction to recent advances in crystal material generation
-- Abstract: Material discovery has long been a challenging task due to the vast search space, complex and heterogeneous structures, and high experimental costs. Recently, there has been growing interest in leveraging deep learning techniques to accelerate this process. Inspired by the remarkable success of deep generative models in text and image domains, directly generating crystal structures using generative models has emerged as a promising direction. In this talk, we will provide an overview of recent advances in deep generative approaches for crystal material generation, covering diffusion models, flow matching, and autoregressive methods. 
+    - Title: Introduction to recent advances in crystal material generation
+    - Abstract: Material discovery has long been a challenging task due to the vast search space, complex and heterogeneous structures, and high experimental costs. Recently, there has been growing interest in leveraging deep learning techniques to accelerate this process. Inspired by the remarkable success of deep generative models in text and image domains, directly generating crystal structures using generative models has emerged as a promising direction. In this talk, we will provide an overview of recent advances in deep generative approaches for crystal material generation, covering diffusion models, flow matching, and autoregressive methods. 
 
 ##### 2025-04-25
 Cancelled due to ICLR schedule conflict.
 
 ##### 2025-04-11
 - Speaker: Pinchen Xie (https://salinelake.github.io/), Lawrence Berkeley National Laboratory. 
-
-- Time: 2:00 PM – 4:00 PM
-- Zoom Link:  https://nus-sg.zoom.us/j/84688289643?pwd=NndSC7K2kPkHt4dgHbMMa91haOoInK.1
-- Meeting ID: 846 8828 9643
-- Passcode: 992775
-- Title: Data-driven Applications of Coarse-grained Molecular Dynamics and Quantum Dynamics
-- Abstract: The simulation of all-atom molecular dynamics is limited in both length and time scales. The same difficulty applies to simulating the unitary dynamics of large, closed quantum systems. Therefore, we turn to modeling coarse-grained molecular dynamics and open quantum dynamics, using approximate, non-Markovian representations of less relevant degrees of freedom. The equations of motion for these effective models can be derived from simulation or experimental data. We will present a few examples and introduce the open-source packages we have developed for these purposes.
+    - Time: 2:00 PM – 4:00 PM
+    - Zoom Link:  https://nus-sg.zoom.us/j/84688289643?pwd=NndSC7K2kPkHt4dgHbMMa91haOoInK.1
+    - Meeting ID: 846 8828 9643
+    - Passcode: 992775
+    - Title: Data-driven Applications of Coarse-grained Molecular Dynamics and Quantum Dynamics
+    - Abstract: The simulation of all-atom molecular dynamics is limited in both length and time scales. The same difficulty applies to simulating the unitary dynamics of large, closed quantum systems. Therefore, we turn to modeling coarse-grained molecular dynamics and open quantum dynamics, using approximate, non-Markovian representations of less relevant degrees of freedom. The equations of motion for these effective models can be derived from simulation or experimental data. We will present a few examples and introduce the open-source packages we have developed for these purposes.
 
 ##### 2025-03-28
 Cancelled due to NUS Well-Being Day.
