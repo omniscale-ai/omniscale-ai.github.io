@@ -17,18 +17,18 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 
-##### 2025-29-08
+##### 2025-08-29
 - Speaker: Zhao Yue
     - Title: Deep Learning Methods for Solving High-dimensional PDEs: EPR-Net and Deep Picard Iteration
     - Abstract: In this talk, we explore two deep learning methods for solving high-dimensional PDEs. First, we introduce EPR-Net, a novel deep learning approach for constructing potential landscapes of high-dimensional non-equilibrium steady-state (NESS) systems. The coincidence between the minimum loss of EPR-Net and the entropy production rate in NESS theory allows simultaneous potential landscape construction and clear physical interpretation. EPR-Net can be combined with dimensionality reduction and extended to systems with state-dependent diffusion coefficients. Next, we propose Deep Picard Iteration (DPI) for solving high-dimensional nonlinear parabolic PDEs. DPI combines Picard iteration with neural networks, avoiding the computational difficulties of directly optimizing PDE objective functions. It uses the Feynman-Kac formula for function evaluation, the Bismut-Elworthy-Li formula for gradient estimation. Numerical experiments demonstrate DPI's faster convergence, lower computational cost, and higher solution accuracy compared to existing methods.
 
-##### 2025-18-07
+##### 2025-07-18
 - Speaker: Andrei Okhotin
     - Title: MiAD: Mirage Atom Diffusion for De Novo Crystal Generation
     - Abstract: In recent years, diffusion-based models have demonstrated exceptional performance in searching for simultaneously stable, unique, and novel (S.U.N.) crystalline materials. However, most of these models don’t have the ability to change the number of atoms in the crystal during the generation process, which limits the variability of model sampling trajectories. In this paper, we demonstrate the severity of this restriction and introduce a simple yet powerful technique, mirage infusion, which enables diffusion models to change the state of the atoms that make up the crystal from existent to non-existent (mirage) and vice versa. We show that this technique improves model quality by up to x2.45 compared to the same model without this modification. The resulting model, Mirage Atom Diffusion (MiAD), is an equivariant joint diffusion model for de novo crystal generation that is capable of altering the number of atoms during the generation process. MiAD achieves an 8.1% S.U.N. rate on the MP-20 dataset, which substantially exceeds existing state-of-the-art approaches.
 
 
-##### 2025-20-06
+##### 2025-06-20
 - Speaker: Maevskiy Artem
     - Title: Accelerating the Discovery of Superionic Conductors with Machine Learning
     - Abstract: Discovering new superionic materials is essential for advancing solid-state batteries, which offer improved energy density and safety compared to traditional lithium-ion batteries. Conventional computational methods for identifying such materials are resource-intensive and not easily scalable. In this talk, I will discuss how AI-powered computational approaches can be leveraged for multiscale modelling to predict ionic mobility in solids. I will present our novel method that utilizes universal interatomic potential models and heuristic structure descriptors to quickly screen for promising ionic conductor candidates.
