@@ -17,6 +17,14 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 
+### 2025-09-12
+- Speaker: Martin Hoffmann Petersen (Technical University of Denmark)
+
+    - Title: Computational investigation and generation of site-disordered sodium ion cathode materials
+
+    - Abstract: Disorder is a ubiquitous feature in functional materials, where doping strategies are widely employed to enhance performance and stability. In battery cathodes, for instance, transition metal-ion doping can significantly improve capacity and cycling stability. To unravel the mechanisms underlying these effects, we developed a system-specific machine learning interatomic potential (MLIP) capable of predicting total energy, atomic forces, atomic charges, and magnetic moments. The explicit treatment of atomic charge is particularly critical for cathode materials, where transition metal ions undergo redox transitions during ion extraction and insertion. Using this MLIP, we investigated four polyanionic sodium cathode materials to explore doping-induced site disorder and its impact on redox behavior. However, even with MLIPs, large-scale screening of site-disordered structures to identify optimal doping regimes remains computationally demanding. To address this challenge, we investigate the use of global optimization algorithm to tailored to site-disordered configurations, to find thermodynamically stable configurations for different charge state of the site-disordered sodium-ion cathode materials.  Using these external. This framework enables the discovery of previously unexplored site-disordered states and provides insights into optimal doping ranges for polyanionic sodium cathodes, offering a pathway toward accelerated design of high-performance electrode materials.
+
+
 ##### 2025-08-29
 - Speaker: Zhao Yue
     - Title: Deep Learning Methods for Solving High-dimensional PDEs: EPR-Net and Deep Picard Iteration
