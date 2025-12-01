@@ -17,6 +17,22 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 Venue: S17-0406, S17, NUS, Singapore
 
 
+### 2025-11-28
+- Speaker: Izumi Takahara (The University of Tokyo)
+
+    - Title: Leveraging Large Language Model Reasoning for Inorganic Materials Design and Discovery
+
+    - Abstract: Computational inverse design and discovery of inorganic materials remain longstanding challenges in materials science. Recent advances in generative AI technologies and the rapid improvement of large language models (LLMs) have opened new opportunities, as LLMs now possess broad chemical knowledge and flexible reasoning capabilities. In this talk, I present a feedback-driven materials design framework that employs an LLM as a reasoning agent to explore compositional space. By using LLM as the reasoning engine for proposing and refining material compositions, the framework enables iterative optimization toward target properties, improved interpretability in inverse design, and the ability to impose practical constraints directly through natural language prompts. I will also briefly introduce our ongoing development of LLM-based approach for exploring previously unknown stable materials with novel structural prototypes.
+
+
+### 2025-11-14
+- Speaker: Li Zhuoyuan
+
+    - Title: Deep learning approaches for high-dimensional and nonlinear data assimilation
+
+    - Abstract: Data assimilation, as a key technique for merging physical models with observational to estimate state variables, has been widely explored in the fields of weather forecasting, oceanography, and ecology. However, conventional assimilation frameworks, such as variational methods (3D/4DVar) and sequential methods (EnKF), often struggle with the high dimensionality and pronounced nonlinearity inherent in both physical and observational models. In this talk, I will introduce our recent work on leveraging deep learning to address these challenges, focusing on data-driven reduced-order modeling and generative diffusion modeling.
+
+
 ### 2025-09-12
 - Speaker: Martin Hoffmann Petersen (Technical University of Denmark)
 
