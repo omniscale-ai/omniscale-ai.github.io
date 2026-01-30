@@ -16,6 +16,25 @@ Time: Friday, 2:00 PM – 4:00 PM, bi-weekly
 
 Venue: S17-0406, S17, NUS, Singapore
 
+### 2026-02-06
+- Venue: S17-04-04
+
+- Speaker: Han Zhichao
+
+    - Title:  Learning Permutation-invariant Macroscopic Dynamics
+
+    - Abstract: Accurately modeling the macroscopic dynamics of high-dimensional microscopic systems is of broad interest across the sciences.  Many data-driven approaches learn a low-dimensional latent state through an autoencoder trained for pointwise input reconstruction. These methods work well when the microscopic degrees of freedom have a fixed ordering. However, in many settings, such as particle systems, the microscopic state is inherently unordered.  This motivates an autoencoder framework that learns permutation-invariant latent representations. In this talk, I will introduce our recent work to learn the permutation-invariant closure variables. We adopts a permutation-invariant encoder and design a distribution-aware the decoder to reconstruct the mass distribution centered at the observed points rather than per-sample reconstruction. We then jointly learn the macroscopic dynamics of the observables together with the latent states. I will also show experiments where we apply our method. This work is in collaboration with Chen Mengyi, under the supervision of Li Qianxiao.
+
+### 2026-01-23
+- Venue: S17-04-04
+
+- Speaker: Chen Mengyi
+
+    - Title:  Scalable Learning of Macroscopic Stochastic Dynamics
+
+    - Abstract: Macroscopic dynamical descriptions of complex physical systems are crucial for understanding and controlling material behavior. With the growing availability of data and compute, machine learning has become a promising alternative to first-principles methods to build accurate macroscopic models from microscopic trajectory simulations. However, for spatially extended systems, direct simulations of sufficiently large microscopic systems that inform macroscopic behavior is prohibitive. In this talk, I will introduce a framework that learns the macroscopic dynamics of large microscopic systems using only small-system simulations. Our framework employs a partial evolution scheme to generate training data pairs by evolving large-system snapshots within local patches. We subsequently identify the closure variables associated with the macroscopic observables and learn the macroscopic dynamics using a custom loss. I will also briefly introduce our ongoing work to apply this framework to a realistic high-entropy alloy system.
+
+
 
 ### 2025-11-28
 - Speaker: Izumi Takahara (The University of Tokyo)
